@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rishik0821/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishik0821/Leetcode/tree/master/0213-house-robber-ii) |
 | [0826-soup-servings](https://github.com/rishik0821/Leetcode/tree/master/0826-soup-servings) |
+| [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rishik0821/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rishik0821/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishik0821/Leetcode/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rishik0821/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Probability and Statistics
 |  |
 | ------- |
