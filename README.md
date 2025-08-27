@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/rishik0821/Leetcode/tree/master/0826-soup-servings) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/rishik0821/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rishik0821/Leetcode/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/rishik0821/Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
