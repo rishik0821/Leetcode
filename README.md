@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/rishik0821/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishik0821/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rishik0821/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishik0821/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Combinatorics
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rishik0821/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Probability and Statistics
 |  |
 | ------- |
