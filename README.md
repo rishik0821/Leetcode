@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishik0821/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/rishik0821/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/rishik0821/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rishik0821/Leetcode/tree/master/0455-assign-cookies) |
+| [3748-sort-matrix-by-diagonals](https://github.com/rishik0821/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Breadth-First Search
 |  |
 | ------- |
