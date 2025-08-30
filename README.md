@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rishik0821/Leetcode/tree/master/0070-climbing-stairs) |
 | [0826-soup-servings](https://github.com/rishik0821/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/rishik0821/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
 |  |
 | ------- |
