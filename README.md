@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rishik0821/Leetcode/tree/master/0070-climbing-stairs) |
 | [0826-soup-servings](https://github.com/rishik0821/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rishik0821/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/rishik0821/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishik0821/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rishik0821/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Combinatorics
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rishik0821/Leetcode/tree/master/0455-assign-cookies) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rishik0821/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Breadth-First Search
 |  |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rishik0821/Leetcode/tree/master/0036-valid-sudoku) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
