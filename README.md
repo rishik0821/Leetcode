@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rishik0821/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rishik0821/Leetcode/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishik0821/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -150,8 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rishik0821/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishik0821/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
