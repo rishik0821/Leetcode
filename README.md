@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rishik0821/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rishik0821/Leetcode/tree/master/0518-coin-change-ii) |
 | [0940-fruit-into-baskets](https://github.com/rishik0821/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rishik0821/Leetcode/tree/master/0036-valid-sudoku) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishik0821/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/rishik0821/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
 ## Geometry
 |  |
@@ -162,9 +164,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishik0821/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishik0821/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/rishik0821/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
