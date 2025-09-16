@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rishik0821/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/rishik0821/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/rishik0821/Leetcode/tree/master/1013-fibonacci-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rishik0821/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishik0821/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishik0821/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
