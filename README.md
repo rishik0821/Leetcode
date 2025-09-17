@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishik0821/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishik0821/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rishik0821/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/rishik0821/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rishik0821/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishik0821/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/rishik0821/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
+| [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
 |  |
 | ------- |
@@ -183,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
