@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/rishik0821/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishik0821/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rishik0821/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0812-rotate-string](https://github.com/rishik0821/Leetcode/tree/master/0812-rotate-string) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/rishik0821/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rishik0821/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishik0821/Leetcode/tree/master/0136-single-number) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rishik0821/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
