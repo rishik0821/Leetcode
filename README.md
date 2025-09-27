@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishik0821/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/rishik0821/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rishik0821/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rishik0821/Leetcode/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/rishik0821/Leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishik0821/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/rishik0821/Leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishik0821/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/rishik0821/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishik0821/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
