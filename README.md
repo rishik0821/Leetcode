@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/rishik0821/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishik0821/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishik0821/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishik0821/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rishik0821/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rishik0821/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/rishik0821/Leetcode/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishik0821/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rishik0821/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rishik0821/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Breadth-First Search
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/rishik0821/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rishik0821/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishik0821/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rishik0821/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Hash Table
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/rishik0821/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rishik0821/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1129-longest-string-chain](https://github.com/rishik0821/Leetcode/tree/master/1129-longest-string-chain) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rishik0821/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/rishik0821/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
 |  |
